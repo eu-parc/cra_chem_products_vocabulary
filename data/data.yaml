@@ -3,71 +3,71 @@ chem_products:
   name: Articles
   parent: null
   unique_name: articles
-  definition: An object which during production is given a special shape, surface or design which determines its function to a greater degree than does its chemical composition (REACH).
-  source: REGULATION (EC) No 1907/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC
+  definition: "An object which during production is given a special shape, surface or design which determines its function to a greater degree than does its chemical composition (REACH)."
+  source: "REGULATION (EC) No 1907/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC."
 - id: chemical
   name: Chemical
   parent: null
   unique_name: chemical
-  definition: Any substance that has a defined composition.
-  source: United States Nuclear Regulatory Commission (U.S.NRC). The Nuclear Regulatory Commission’s Science 101: What is a Chemical? https://www.nrc.gov/reading-rm/basic-ref/students/science-101/what-is-a-chemical.html (accessed 2024-10-10)
+  definition: "Any substance that has a defined composition."
+  source: "United States Nuclear Regulatory Commission (U.S.NRC). The Nuclear Regulatory Commission’s Science 101: What is a Chemical? https://www.nrc.gov/reading-rm/basic-ref/students/science-101/what-is-a-chemical.html (accessed 2024-10-10)."
 - id: complex_object
   name: Complex object
   parent: null
   unique_name: complex_object
-  definition: An object made up of more than one article.
-  source: European Chemical Agency. Requirements for Substances in Articles; Helsinki, Finland, 2017. https://doi.org/10.2823/521754.
+  definition: "An object made up of more than one article."
+  source: "European Chemical Agency. Requirements for Substances in Articles; Helsinki, Finland, 2017. https://doi.org/10.2823/521754."
 - id: consumer_product
   name: Consumer product
   parent: null
   unique_name: consumer_product
-  definition: Any article, or component part thereof, produced or distributed for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary household or residence, a school, in recreation, or otherwise. 
-  source: Library of Congress. United States Code: Consumer Product Safety,15 U.S.Code. § 2052. Title 15 - Commerce and Trade. https://tile.loc.gov/storage-services/service/ll/uscode/uscode1982-02601/uscode1982-026015047/uscode1982-026015047.pdf.
+  definition: "Any article, or component part thereof, produced or distributed for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary household or residence, a school, in recreation, or otherwise."
+  source: "Library of Congress. United States Code: Consumer Product Safety,15 U.S.Code. § 2052. Title 15 - Commerce and Trade. https://tile.loc.gov/storage-services/service/ll/uscode/uscode1982-02601/uscode1982-026015047/uscode1982-026015047.pdf."
 - id: hazardous_chem
   name: Hazardous chemicals 
   parent: null
   unique_name: hazardous_chem
-  definition: Hazardous chemicals are defined by their intrinsic properties that poses potential risks to human health, the environment, or both.
-  source: https://doi.org/10.1021/acs.est.4c07992
+  definition: "Hazardous chemicals are defined by their intrinsic properties that poses potential risks to human health, the environment, or both."
+  source: "https://doi.org/10.1021/acs.est.4c07992"
 - id: mixture
   name: Mixture
   parent: null
   unique_name: mixture
-  definition: A mixture or solution composed of two or more substances.
-  source: European Commission. REGULATION (EC) No 1272/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 December 2008 on Classification, Labelling and Packaging of Substances and Mixtures, Amending and Repealing Directives 67/548/EEC and 1999/45/EC, and Amending Regulation (EC). Off. J. Eur. Union 2008, L353/1, 1–1355.
+  definition: "A mixture or solution composed of two or more substances."
+  source: "European Commission. REGULATION (EC) No 1272/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 December 2008 on Classification, Labelling and Packaging of Substances and Mixtures, Amending and Repealing Directives 67/548/EEC and 1999/45/EC, and Amending Regulation (EC). Off. J. Eur. Union 2008, L353/1, 1–1355."
 - id: nias
   name: Non-intentionally added substance (NIAS)
   parent: null
   unique_name: nias
-  definition: An impurity in the substances used or a reaction intermediate formed during the production process or a decomposition or reaction product.
-  source: COMMISSION REGULATION (EU) No 10/2011 of 14 January 2011 on plastic materials and articles intended to come into contact with food(Text with EEA relevance)
+  definition: "An impurity in the substances used or a reaction intermediate formed during the production process or a decomposition or reaction product."
+  source: "COMMISSION REGULATION (EU) No 10/2011 of 14 January 2011 on plastic materials and articles intended to come into contact with food(Text with EEA relevance)"
 - id: products
   name: Products
   parent: null
   unique_name: products
-  definition: Products are consumable liquids, aerosols, semi-solids, or solids that are used a given number of times before they are depleted.
-  source: OECD. International Harmonized Functional, Product and Article Use Categories. ENV/JM/MONO(2017)14; 2017.
+  definition: "Products are consumable liquids, aerosols, semi-solids, or solids that are used a given number of times before they are depleted."
+  source: "OECD. International Harmonized Functional, Product and Article Use Categories. ENV/JM/MONO(2017)14; 2017."
 - id: regsubst
   name: Regulated substances
   parent: null
   unique_name: regsubst
-  definition: These are substances whose production, placing on the market or use are subjected to chemical and product legislations. For example, substances subject to registration under REACH.
-  source: https://doi.org/10.1021/acs.est.4c07992
+  definition: "These are substances whose production, placing on the market or use are subjected to chemical and product legislations. For example, substances subject to registration under REACH."
+  source: "https://doi.org/10.1021/acs.est.4c07992"
 - id: restrsubst
   name: Restricted substances
   parent: null
   unique_name: restrsubst
-  definition: Substances for which the production, use or placing on the market is forbidden or partly restricted under regional jurisdictions or via multilateral agreements. For example, substances restricted under the Stockholm Convention on Persistent Organic Pollutants.
-  source: https://doi.org/10.1021/acs.est.4c07992
+  definition: "Substances for which the production, use or placing on the market is forbidden or partly restricted under regional jurisdictions or via multilateral agreements. For example, substances restricted under the Stockholm Convention on Persistent Organic Pollutants."
+  source: "https://doi.org/10.1021/acs.est.4c07992"
 - id: substance
   name: Substance
   parent: null
   unique_name: substance
-  definition: A chemical element and its compounds in the natural state or obtained by any manufacturing process, including any additive necessary to preserve its stability and any impurity deriving from the process used, but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition. A chemical in considered a type of substance in https://doi.org/10.1021/acs.est.4c07992.
-  source: REGULATION (EC) No 1907/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC
+  definition: "A chemical element and its compounds in the natural state or obtained by any manufacturing process, including any additive necessary to preserve its stability and any impurity deriving from the process used, but excluding any solvent which may be separated without affecting the stability of the substance or changing its composition. A chemical in considered a type of substance in https://doi.org/10.1021/acs.est.4c07992."
+  source: "REGULATION (EC) No 1907/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC"
 - id: svhc
   name: Substances of Very High Concern (SVHCs)
   parent: null
   unique_name: svhc
-  definition: A substance which has been proposed as a candidate for inclusion on the Authorization or Restriction list under REACH. SVHC substances are proposed according to potential for serious and often irreversible effects on human health and the environment. SVHCs in REACH are classified according to their carcinogenicity, mutagenicity, reproductive toxicity, environmental persistence, and bioaccumulation. 
-  source: https://doi.org/10.1021/acs.est.4c07992
+  definition: "A substance which has been proposed as a candidate for inclusion on the Authorization or Restriction list under REACH. SVHC substances are proposed according to potential for serious and often irreversible effects on human health and the environment. SVHCs in REACH are classified according to their carcinogenicity, mutagenicity, reproductive toxicity, environmental persistence, and bioaccumulation."
+  source: "https://doi.org/10.1021/acs.est.4c07992"
