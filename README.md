@@ -1,3 +1,6 @@
+# This vocabulary has been discontinued. The repository is archived for reference purposes only.
+
+
 # Template repo
 
 This repository can be used to start building your own vocabulary in a way that is compatible with the github actions as defined in `.github/workflows`.
